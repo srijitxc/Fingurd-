@@ -1,0 +1,219 @@
+=== FinGuard Fraud Alert Log — Session Started ===
+[FRAUD ALERT] Account: ACC603 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min
+[FRAUD ALERT] Account: ACC504 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC603 Score: 56 Reason: Location anomaly: transactions from 4 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 51 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 55 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC505 Score: 95 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 101 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 88 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 90 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹205763 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC602 Score: 63 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 79 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 67 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 92 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC502 Score: 114 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min; Spending spike: ₹263442 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC604 Score: 122 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹310256 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC601 Score: 121 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹300083 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC503 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹406231 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 60 Reason: High-value: 5 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹286000 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 67 Reason: High-value: 6 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹346000 total DEBIT in 10min (limit ₹200000)
+=== Session Ended ===
+=== FinGuard Fraud Alert Log — Session Started ===
+[FRAUD ALERT] Account: FRD001 Score: 54 Reason: High-value: 5 transactions above ₹50000 in 10min; Spending spike: ₹290000 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 87 Reason: High-value: 10 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹580000 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC602 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min
+[FRAUD ALERT] Account: ACC501 Score: 85 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC601 Score: 87 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 83 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC505 Score: 75 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC604 Score: 70 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC603 Score: 59 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 52 Reason: Location anomaly: transactions from 5 different cities in 5min
+[FRAUD ALERT] Account: ACC502 Score: 88 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC601 Score: 86 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 95 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 60 Reason: Location anomaly: transactions from 6 different cities in 5min
+[FRAUD ALERT] Account: ACC503 Score: 75 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC503 Score: 88 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC505 Score: 119 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 9 unique devices used in 10min; Spending spike: ₹242685 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC603 Score: 86 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC603 Score: 109 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 10 unique devices used in 10min
+[FRAUD ALERT] Account: ACC604 Score: 119 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 9 unique devices used in 10min; Spending spike: ₹245671 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC605 Score: 90 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC603 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹341463 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC505 Score: 66 Reason: Device switching: 10 unique devices used in 10min; Spending spike: ₹433599 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC501 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹464353 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC503 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹503878 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC501 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹737001 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC604 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹1159117 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC502 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹882991 total DEBIT in 10min (limit ₹200000)
+=== Session Ended ===
+=== FinGuard Fraud Alert Log — Session Started ===
+[FRAUD ALERT] Account: ACC603 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min
+[FRAUD ALERT] Account: ACC504 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC603 Score: 56 Reason: Location anomaly: transactions from 4 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 51 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 55 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC505 Score: 95 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 101 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 88 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 90 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹205763 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC602 Score: 63 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 79 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 67 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 92 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC502 Score: 114 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min; Spending spike: ₹263442 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC604 Score: 122 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹310256 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC601 Score: 121 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹300083 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC503 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹406231 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 60 Reason: High-value: 5 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹286000 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 67 Reason: High-value: 6 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹346000 total DEBIT in 10min (limit ₹200000)
+=== Session Ended ===
+=== FinGuard Fraud Alert Log — Session Started ===
+[FRAUD ALERT] Account: ACC603 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min
+[FRAUD ALERT] Account: ACC504 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC603 Score: 56 Reason: Location anomaly: transactions from 4 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 51 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 55 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC505 Score: 95 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 101 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 88 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 90 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹205763 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC602 Score: 63 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 79 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 67 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 92 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC502 Score: 114 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min; Spending spike: ₹263442 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC604 Score: 122 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹310256 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC601 Score: 121 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹300083 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC503 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹406231 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 60 Reason: High-value: 5 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹286000 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 67 Reason: High-value: 6 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹346000 total DEBIT in 10min (limit ₹200000)
+=== Session Ended ===
+=== FinGuard Fraud Alert Log — Session Started ===
+[FRAUD ALERT] Account: ACC603 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min
+[FRAUD ALERT] Account: ACC504 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC603 Score: 56 Reason: Location anomaly: transactions from 4 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 51 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 55 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC505 Score: 95 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 101 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 88 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 90 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹205763 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC602 Score: 63 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 79 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 67 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 92 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC502 Score: 114 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min; Spending spike: ₹263442 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC604 Score: 122 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹310256 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC601 Score: 121 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹300083 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC503 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹406231 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 60 Reason: High-value: 5 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹286000 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 67 Reason: High-value: 6 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹346000 total DEBIT in 10min (limit ₹200000)
+=== Session Ended ===
+=== FinGuard Fraud Alert Log — Session Started ===
+[FRAUD ALERT] Account: ACC603 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min
+[FRAUD ALERT] Account: ACC504 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC603 Score: 56 Reason: Location anomaly: transactions from 4 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 51 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 55 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC505 Score: 95 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 101 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 88 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 90 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹205763 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC602 Score: 63 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 79 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 67 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 92 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC502 Score: 114 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min; Spending spike: ₹263442 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC604 Score: 122 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹310256 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC601 Score: 121 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹300083 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC503 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹406231 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 60 Reason: High-value: 5 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹286000 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 67 Reason: High-value: 6 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹346000 total DEBIT in 10min (limit ₹200000)
+=== Session Ended ===
+=== FinGuard Fraud Alert Log — Session Started ===
+[FRAUD ALERT] Account: ACC603 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min
+[FRAUD ALERT] Account: ACC504 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC603 Score: 56 Reason: Location anomaly: transactions from 4 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 51 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 55 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC505 Score: 95 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 101 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 88 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 90 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹205763 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC602 Score: 63 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 79 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 67 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 92 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC502 Score: 114 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min; Spending spike: ₹263442 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC604 Score: 122 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹310256 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC601 Score: 121 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹300083 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC503 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹406231 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 60 Reason: High-value: 5 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹286000 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 67 Reason: High-value: 6 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹346000 total DEBIT in 10min (limit ₹200000)
+=== Session Ended ===
+=== FinGuard Fraud Alert Log — Session Started ===
+[FRAUD ALERT] Account: ACC603 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min
+[FRAUD ALERT] Account: ACC504 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC603 Score: 56 Reason: Location anomaly: transactions from 4 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 51 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 55 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC505 Score: 95 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 101 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 88 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 90 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹205763 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC602 Score: 63 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 79 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 67 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 92 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC502 Score: 114 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min; Spending spike: ₹263442 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC604 Score: 122 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹310256 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC601 Score: 121 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹300083 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC503 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹406231 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 60 Reason: High-value: 5 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹286000 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 67 Reason: High-value: 6 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹346000 total DEBIT in 10min (limit ₹200000)
+=== Session Ended ===
+=== FinGuard Fraud Alert Log — Session Started ===
+[FRAUD ALERT] Account: ACC603 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min
+[FRAUD ALERT] Account: ACC504 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC603 Score: 56 Reason: Location anomaly: transactions from 4 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 51 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 55 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC505 Score: 95 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 101 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 88 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 90 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹205763 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC602 Score: 63 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 79 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 67 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 92 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC502 Score: 114 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min; Spending spike: ₹263442 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC604 Score: 122 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹310256 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC601 Score: 121 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹300083 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC503 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹406231 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 60 Reason: High-value: 5 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹286000 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 67 Reason: High-value: 6 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹346000 total DEBIT in 10min (limit ₹200000)
+=== Session Ended ===
+=== FinGuard Fraud Alert Log — Session Started ===
+[FRAUD ALERT] Account: ACC603 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min
+[FRAUD ALERT] Account: ACC504 Score: 58 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC603 Score: 56 Reason: Location anomaly: transactions from 4 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 51 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC501 Score: 55 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC505 Score: 95 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 101 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 88 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min
+[FRAUD ALERT] Account: ACC605 Score: 90 Reason: Location anomaly: transactions from 7 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹205763 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC602 Score: 63 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 6 unique devices used in 10min
+[FRAUD ALERT] Account: ACC504 Score: 79 Reason: Location anomaly: transactions from 5 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 67 Reason: Location anomaly: transactions from 6 different cities in 5min; Device switching: 7 unique devices used in 10min
+[FRAUD ALERT] Account: ACC602 Score: 92 Reason: Location anomaly: transactions from 8 different cities in 5min; Device switching: 9 unique devices used in 10min
+[FRAUD ALERT] Account: ACC502 Score: 114 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 9 unique devices used in 10min; Spending spike: ₹263442 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC604 Score: 122 Reason: Location anomaly: transactions from 9 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹310256 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC601 Score: 121 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 8 unique devices used in 10min; Spending spike: ₹300083 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: ACC503 Score: 129 Reason: Location anomaly: transactions from 10 different cities in 5min; Device switching: 10 unique devices used in 10min; Spending spike: ₹406231 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 60 Reason: High-value: 5 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹286000 total DEBIT in 10min (limit ₹200000)
+[FRAUD ALERT] Account: FRD001 Score: 67 Reason: High-value: 6 transactions above ₹50000 in 10min; Location anomaly: transactions from 2 different cities in 5min; Spending spike: ₹346000 total DEBIT in 10min (limit ₹200000)
+=== Session Ended ===
